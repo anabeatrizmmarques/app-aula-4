@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 24px;
+}
+.card {
+    max-width: 420;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 12px;
+}
+
+input{
+    width: 94%;
+    padding: 10px;
+    margin-top: 8px;
+}
+button{
+    width: 100%;
+    padding: 10px;
+    margin-top: 8px;
+}
+.saida {
+    margin-top:  12px;
+    font-weight: 600;
+}
